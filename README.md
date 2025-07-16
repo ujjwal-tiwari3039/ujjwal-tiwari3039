@@ -10,7 +10,7 @@
   text-shadow: 0 0 5px #00f0ff, 0 0 10px #005eff, 0 0 20px #00f0ff;
   font-family: 'Segoe UI', sans-serif;
 ">
-  ⚡ Soham Vyas | Data Science ⚡<br>
+  ⚡ Ujjwal Tiwari | Game Dev ⚡<br>
   Let's Build Cool Stuff Together
 </h1>
 
@@ -18,18 +18,16 @@
 
 ### 👤 About Me
 
-**Name:** Soham Vyas  
-**Username:** `vyassoham`  
+**Name:** Ujjwal Tiwari  
+**Username:** `ujjwal-tiwari3039`  
 **Location:** India 🌍  
-**Education:** BS in Data Science (IIT Jodhpur )
-**Languages:** English, Hindi, Gujarati, 日本語 (learning)  
+**Education:** 12 th Pass
+**Languages:** English, Hindi, 日本語 (learning) , Marathi 
 
 **Interests:**
 - 🚀 Full-stack Web Dev  
 - 🧠 AI & Machine Learning  
-- 📊 Data Science & Visualization  
-- 🎯 Competitive Programming  
-- 📚 Olympiads & ISI Prep
+- 🎯 Game Developing 
 
 ---
 
@@ -68,10 +66,10 @@
 ### 🔗 Connect with Me
 
 <p align="center">
-  <a href="https://instagram.com/legitsoham" target="_blank">
+  <a href="https://instagram.com/theboss3039" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-legitsoham-833AB4?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://github.com/vyassoham" target="_blank">
+  <a href="https://github.com/ujjwal-tiwari3039" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-vyassoham-black?style=for-the-badge&logo=github" />
   </a>
 </p>
@@ -88,17 +86,16 @@
 ### 💻 Currently Learning
 
 - 🐍 Python (Intermediate ➡ Advanced)  
-- 📊 Streamlit  
 - 🤖 LLMs & LangChain  
-- 🗃️ Databases  
-- 💻 System Projects (like ATM Simulations)  
+- 🗃️ Unity / Blender  
+- 💻 Game Developement 
 - 🇯🇵 Japanese Hiragana (あ〜そ ✅)
 
 ---
 
 ### 💬 Quote of the Day
 
-> “Stay hungry. Stay foolish.” – *Steve Jobs*
+> “I Don't Cry For Help I Just Do It Because I am The Final Boss“
 
 ---
 
