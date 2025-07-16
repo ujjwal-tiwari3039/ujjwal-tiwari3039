@@ -1,4 +1,4 @@
-<!-- Profile README for Soham Vyas (@vyassoham) -->
+
 
 <!-- 🌠 Custom Banner with Name -->
 <h1 align="center" style="
@@ -21,7 +21,7 @@
 **Name:** Ujjwal Tiwari  
 **Username:** `ujjwal-tiwari3039`  
 **Location:** India 🌍  
-**Education:** 12 th Pass
+**Education:** 12 th Pass , 
 **Languages:** English, Hindi, 日本語 (learning) , Marathi 
 
 **Interests:**
@@ -40,18 +40,6 @@
 </p>
 
 ---
-### 📊 GitHub Stats & Streak
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vyassoham&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vyassoham&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vyassoham&layout=compact&theme=radical" />
-</p>
-
----
 
 ### 📽️ My Life in Gifs
 
@@ -63,16 +51,6 @@
 
 ---
 
-### 🔗 Connect with Me
-
-<p align="center">
-  <a href="https://instagram.com/theboss3039" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-legitsoham-833AB4?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://github.com/ujjwal-tiwari3039" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-vyassoham-black?style=for-the-badge&logo=github" />
-  </a>
-</p>
 
 ---
 ### 🐍 Contribution Snake
