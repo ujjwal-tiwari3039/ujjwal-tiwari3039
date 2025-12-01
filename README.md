@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="400">
+<br><br>
 # 💫 About Me:
 🔭 I’m currently working on a Smart Attendance System using Python and IoT.<br><br>👯 I’m looking to collaborate on innovative web development projects.<br><br>🤝 I’m looking for help with backend integration and cloud deployment.<br><br>🌱 I’m currently learning HTML/CSS, Python, and IoT protocols.<br><br>💬 Ask me about building responsive web pages and sensor data.<br><br>⚡ Fun fact I can debug code faster than I can decide what to eat
 
