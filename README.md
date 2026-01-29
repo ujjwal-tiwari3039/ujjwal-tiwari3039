@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="400">
 
 # 👋 Hi, I'm Ujjwal Tiwari!
-**B.Tech CSE Student | IoT Enthusiast | Trainee at RAiot Labs**
+**B.Tech CSE Student | IoT Enthusiast | Trainee at RAiot Labs** 
 
 ---
 
