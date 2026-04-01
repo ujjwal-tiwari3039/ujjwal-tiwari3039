@@ -46,6 +46,4 @@ A **Persistent Notepad** application showcasing my ability to bridge frontend UI
 ## 💻 Skills & Tools:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ujjwal-tiwari3039&theme=dark&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwal-tiwari3039&theme=dark&layout=compact)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ujjwal-tiwari3039&" alt="ujjwal-tiwari3039" /></p>
